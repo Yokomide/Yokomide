@@ -6,15 +6,14 @@
   
 [![Discord Presence](https://lanyard.kyrie25.me/api/298531777679720449?waveColor=b109ff&idleMessage=Nothing%20seems%20to%20be%20happening&waveSpotifyColor=B48EF7&gradient=b109ff-fd72cc-fd72cc&imgStyle=square)](https://discord.com/users/298531777679720449)
 </div>
-
+<br><br>
 <div id="header" align="center">
  <img src="Assets/About.png" width="1000"/>
 </div>
   <div id="header" align="center">
  <img src="Assets/Knowledge.png" width="1000"/>
+   <br><br>
 </div>
-<br>
-
 <p align="center">
   <img src="https://img.shields.io/badge/unity%20-%23323330.svg?&style=for-the-badge&logo=unity&logoColor=white"/> 
   
